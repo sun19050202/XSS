@@ -9,7 +9,7 @@
 <body>
     <h1>Enteer your comment</h1>
     
-    <form action="comment.php" method="post">
+    <form action="index.php" method="post">
         <input type="text" name="value">
         <input type="submit" value="Send data">
     </form>
